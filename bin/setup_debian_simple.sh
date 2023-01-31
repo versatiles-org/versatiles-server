@@ -25,3 +25,5 @@ sudo systemctl restart nginx
 
 # run server
 versatiles serve "2023-01-planet.versatiles#osm" --static-tar frontend.br.tar -p 8080
+
+
